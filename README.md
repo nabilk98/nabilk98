@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @nabilk98
+- 👋 Hi, I’m @nkhalil98
 - 👀 I’m interested in Economics and Public Policy Research
 - 🌱 I’m currently learning Data Structures and Algorithms
 - 💞️ I’m looking to collaborate on anything fun
