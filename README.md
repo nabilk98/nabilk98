@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nkhalil98
 - 👀 I’m interested in Economics and Public Policy Research
-- 🌱 I’m currently learning Data Structures and Algorithms
+- 🌱 I’m currently learning Machine Learning
 - 💞️ I’m looking to collaborate on anything fun
 - 📫 How to reach me nabil98@mit.edu
 
