@@ -2,7 +2,7 @@
 - 👀 I’m interested in Coding
 - 🌱 I’m currently learning Machine Learning
 - 💞️ I’m looking to collaborate on anything fun
-- 📫 How to reach me nabil98@mit.edu
+- 📫 How to reach me nabilamirkhalil@gmail.com
 
 <!---
 nabilk98/nabilk98 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
